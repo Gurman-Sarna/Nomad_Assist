@@ -1,0 +1,16 @@
+{
+  "labels":[
+    "set_alarm",
+    "set_reminder",
+    "open_app",
+    "check_battery",
+    "search_web",
+    "adjust_volume",
+    "close_app",
+    "toggle_setting",
+    "adjust_brightness",
+    "make_call"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
